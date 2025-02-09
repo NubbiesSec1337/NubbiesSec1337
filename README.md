@@ -1,16 +1,26 @@
-## Hi there 👋
+# My Details 🔥
 
-<!--
-**NubbiesSec1337/NubbiesSec1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const info = {
+  name: ["Ryan"],
+  pronouns: ["He", "Him"],
+  langs: ["JavaScript", "TypeScript", "Python", "Go"],
+  topics: ["web dev", "ui/ux"],
+  stack: {
+    frontend: {
+      frameworks: ["React", "Next", "Astro", "Tailwind"]
+    },
+    backend: {
+      frameworks: ["Node", "Express", "Nest"]
+    },
+    mobile: {
+      frameworks: ["React Native", "Flutter"]
+    },
+    design: {
+      tools: ["Figma", "Photoshop", "Canva"]
+    },
+    database: ["GQL", "MySQL", "Supabase"],
+    misc: ["Notion", "Obsidian", "Framer"]
+  },
+  focus: "Improving ⚡"
+};
