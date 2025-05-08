@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/NubbiesSec1337/NubbiesSec1337/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
