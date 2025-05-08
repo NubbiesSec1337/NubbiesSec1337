@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Ryan!;Web+Dev+%7C+UI%2FUX+Enthusiast;Always+improving+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/NubbiesSec1337/NubbiesSec1337/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
----
 
 ## 🧑‍💻 About Me
 
